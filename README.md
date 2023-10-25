@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
    <!-- Develope Tools -->
-    <p><strong>Frontend</strong></p>
+    <p><strong>Develope Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Eclipse-24045C?style=flat-square&logo=eclipse&logoColor=white"> 
         <img src="https://img.shields.io/badge/Visual Studio-5B24BA?style=flat-square&logo=Visual Studio&logoColor=white"> 
@@ -51,5 +51,5 @@
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/node.js-0C7A11?style=flat-square&logo=node.js&logoColor=white">
-</div><br>
+    </div>
 </div>
