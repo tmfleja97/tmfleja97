@@ -44,7 +44,6 @@
     <div>
         <img src="https://img.shields.io/badge/Eclipse-24045C?style=flat-square&logo=eclipse&logoColor=white"> 
         <img src="https://img.shields.io/badge/Visual Studio-5B24BA?style=flat-square&logo=Visual Studio&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
